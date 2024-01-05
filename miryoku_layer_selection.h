@@ -6,10 +6,10 @@
 
 #define MIRYOKU_LAYERMAPPING_BASE MIRYOKU_MAPPING
 #define MIRYOKU_LAYER_BASE \
-U_NU,           &kp D,              &kp R,              &kp W,              &kp B,                  &kp J,                  &kp F,              &kp U,              &kp P,              U_NU,           \
-U_MT(LGUI, Q),  U_MT(LALT, S),      U_MT(LCTRL, H),     U_MT(LSHFT, T),     &kp G,                  &kp Y,                  U_MT(LSHFT, N),     U_MT(LCTRL, E),     U_MT(LALT, O),      U_MT(LGUI, Z),  \
-U_NU,           &kp X,              &kp M,              &kp C,              &kp V,                  &kp K,                  &kp L,              &kp A,              &kp I,              U_NU,           \
-U_NP,           U_NP,               U_LT(U_MEDIA, ESC), U_LT(U_SYM_LEFT, TAB),U_LT(U_NAV, SPACE),    U_LT(U_NUM, BSPC),  U_LT(U_SYM_RIGHT, RET),U_LT(U_FUN, DEL),   U_NP,               U_NP
+U_NU,           &kp F,              &kp R,              &kp W,              &kp Z,                  &kp Q,                  &kp D,              &kp U,              &kp G,              U_NU,           \
+U_MT(LGUI, A),  U_MT(LALT, S),      U_MT(LCTRL, H),     U_MT(LSHFT, T),     &kp B,                  &kp J,                  U_MT(LSHFT, N),     U_MT(LCTRL, E),     U_MT(LALT, O),      U_MT(LGUI, I),  \
+U_NU,           &kp X,              &kp M,              &kp C,              &kp V,                  &kp K,                  &kp L,              &kp P,              &kp Y,              U_NU,           \
+U_NP,           U_NP,               U_LT(U_MEDIA, ESC), U_LT(U_SYM_LEFT, TAB),U_LT(U_NAV, SPACE),    U_LT(U_NUM, BSPC),  U_LT(U_SYM_RIGHT, RET),U_LT(U_FUN, ESC),   U_NP,               U_NP
 
 #define MIRYOKU_LAYERMAPPING_NAV MIRYOKU_MAPPING
 #define MIRYOKU_LAYER_NAV \
